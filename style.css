@@ -1,0 +1,15 @@
+.container{
+    color: #000fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+button{
+    background-color: #a93ef0f5;
+    padding: 6px;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 16px;
+    font-size: larger;
+}
